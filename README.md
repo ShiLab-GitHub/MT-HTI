@@ -1,5 +1,5 @@
 # MT-HTI
-This reposiry contains python scripts in support of the manuscript: MT-HTI: A novel approach based on Metapath2Vec and Transformer for Herb-Target Interaction Prediction
+This reposiry contains python scripts in support of the manuscript: MT-HTI: A novel approach based on Metapath2Vec and Transformer for Herb-Target Interaction Prediction.
 
 # Dependencies
 Ensure your Python environment is set up with the following dependencies:
